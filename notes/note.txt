@@ -1,0 +1,5 @@
+1.Why are you using require instead of import?”
+
+You say:
+
+“I started with CommonJS because it is still widely used in Node.js backend ecosystems like Express for compatibility and simplicity. I also understand ES Modules and can migrate to them when needed for modern projects.
